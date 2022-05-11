@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Medina</h1>
 <h3 align="center">Creative, detail-oriented, software engineer with a deep interest in Cloud. Proven track record of creating and implementing successful front and back-end web applications.</h3>
 
-- 👨‍💻 All of my projects are available at [https://jmwebsolutions.netlify.app/](https://jmwebsolutions.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jmwebsolutions.netlify.app/](https://www.josemedinadev.com/)
 
 - 📫 How to reach me **jm248248@gmail.com**
 
