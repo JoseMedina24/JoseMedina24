@@ -23,8 +23,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemedina24&show_icons=true&locale=en&layout=compact" alt="josemedina24" /></p>
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
-
 <!---
 JoseMedina24/JoseMedina24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
