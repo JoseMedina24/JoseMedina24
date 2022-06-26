@@ -4,9 +4,8 @@
 
 <h3 align="center">Creative, detail-oriented, software engineer with a deep experience in operations and account management. Proven track record of client relations, sales, and implementation of successful web applications. Looking to bring my skills to a tech company with global reach. </h3>
 
+<p align="center">
 - 👨‍💻 All of my projects are available at [Portfolio Site](https://www.josemedinadev.com/)
-
-- 📫 How to reach me **jm248248@gmail.com**
 
 <p align="center">
 <a href="https://twitter.com/JoseMedina2424"><img src="https://img.shields.io/badge/@JoseMedina2424-005da8?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
