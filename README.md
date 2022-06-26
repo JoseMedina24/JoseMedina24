@@ -8,6 +8,14 @@
 
 - 📫 How to reach me **jm248248@gmail.com**
 
+<p align="center">
+<a href="https://twitter.com/JoseMedina2424"><img src="https://img.shields.io/badge/@JoseMedina2424-005da8?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://www.codewars.com/users/JoseMedina"><img src="https://img.shields.io/badge/Codewars-005da8?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
+<a href="mailto:jm248248@gmail.com"><img src="https://img.shields.io/badge/ssaryonjr@gmail.com-005da8?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/jose-medina-software-engineer/"><img src="https://img.shields.io/badge/sam_saryon-005da8?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://drive.google.com/file/d/10g8aRZcLfx9lDDU2xqSJ74lszPZ46P4h/view?usp=sharing"><img src="https://img.shields.io/badge/Download_Resume-005da8?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joseidk24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseidk24" height="30" width="40" /></a>
