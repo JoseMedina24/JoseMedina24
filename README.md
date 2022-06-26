@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Medina</h1>
+
+![alt text](https://github.com/JoseMedina24/JoseMedina24/blob/main/Jose%20(1).gif?raw=true)
+
 <h3 align="center">Creative, detail-oriented, software engineer with a deep experience in operations and account management. Proven track record of client relations, sales, and implementation of successful web applications. Looking to bring my skills to a tech company with global reach. </h3>
 
 - 👨‍💻 All of my projects are available at [Portfolio Site](https://www.josemedinadev.com/)
