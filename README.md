@@ -11,7 +11,7 @@
 <a href="https://twitter.com/JoseMedina2424"><img src="https://img.shields.io/badge/@JoseMedina2424-005da8?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 <a href="https://www.codewars.com/users/JoseMedina"><img src="https://img.shields.io/badge/Codewars-005da8?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
 <a href="mailto:jm248248@gmail.com"><img src="https://img.shields.io/badge/jm248248@gmail.com-005da8?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/jose-medina-software-engineer/"><img src="https://img.shields.io/badge/jose_medina-005da8?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/josemedina-/"><img src="https://img.shields.io/badge/jose_medina-005da8?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://docs.google.com/document/d/18aMBwOY9RVOdNNbsv5HxqlfmIq3cbhzy/edit?usp=sharing&ouid=100846554713360415523&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Download_Resume-005da8?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
 </p>
 
