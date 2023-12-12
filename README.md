@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/JoseMedina24/JoseMedina24/blob/main/Jose%20main.gif?raw=true)
 
-<h3 align="center">Creative, detail-oriented, software engineer with a deep experience in operations and account management. Proven track record of client relations, sales, and implementation of successful web applications. Looking to bring my skills to a tech company with global reach. </h3>
+<h3 align="center">I'm really just doing this for fun and maybe create something along the way. </h3>
 
 <p align="center">
 👨‍💻 All of my projects are available at https://www.josemedinadev.com 
